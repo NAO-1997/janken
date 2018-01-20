@@ -1,0 +1,61 @@
+<resources>
+    <!--端末の言語設定が日本語の場合に反映-->
+    <string name="app_name">ドロイドじゃんけん</string>
+    <string name="title_activity_about">AboutActivity</string>
+
+    <string name="text_title">ドロイドじゃんけん</string>
+    <string name="nomal_mode">じゃんけん</string>
+    <string name="ten_th_mode">じゃんけん10点マッチ</string>
+    <string name="ura_mode">裏じゃんけん</string>
+    <string name="data">実績</string>
+    <string name="update">アップデート</string>
+
+    <string name="text1">トロフィー獲得数</string>
+    <string name="text2">スコア：</string>
+
+    <!--じゃんけんダイアログ-->
+    <string name="dialog_title1">勝ち</string>
+    <string name="dialog_mes1">スコア　+1</string>
+
+    <string name="dialog_title2">負け</string>
+
+    <string name="dialog_title3">あいこ</string>
+
+    <string name="result1">"Result</string>
+    <string name="result_mes1">あなたの負けです!</string>
+
+    <string name="result2">Great!!!</string>
+    <string name="result_mes2">相手と5点差以上で勝ちました!</string>
+
+    <string name="result_mes3">あなたの勝ちです!</string>
+
+    <string name="dialog_mes4">スコア　+5</string>
+
+    <string name="result_button">おわる</string>
+
+    <string name="exit_mes_title">終了確認</string>
+    <string name="exit_mes">現在のゲームを終了します。</string>
+
+
+    <string name="large_text">
+        "◆Update\n"
+        "アプリケーションのインストールができます。\n\n"
+
+        "◆Back to the old version\n"
+        "旧バージョンのドロイドじゃんけんをインストールできます。旧バージョンのドロイドじゃんけんをインストールするためには、"
+        "現在実行中のバージョンをアンインストールする必要があります。また、バージョン4.0以降に実装されている実績情報は"
+        "削除されますのでご注意ください。\n\n"
+
+        "バージョン:4.3.3\n"
+        "リリース日:2018/1/20\n\n"
+
+        "ドロイドじゃんけん\n"
+        "English: Rock-paper-scissors\n"
+        "対応言語: 英語, 日本語\n"
+        "Production by NAO\n"
+        "Copyright 2017 NAO\n"
+        "本アプリケーションでは、複数のオープンソース及びフリーイラストを使用しています。"
+
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>

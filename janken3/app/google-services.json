@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "316084858385",
+    "firebase_url": "https://janken-1fab1.firebaseio.com",
+    "project_id": "janken-1fab1",
+    "storage_bucket": "janken-1fab1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316084858385:android:b68171c3b2c47e78",
+        "android_client_info": {
+          "package_name": "com.dodge.janken"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316084858385-rnvef5vsraa688rg5tlts17iai02v3vt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dodge.janken",
+            "certificate_hash": "a76afefac13edfd46f185210b88e721d23b0514a"
+          }
+        },
+        {
+          "client_id": "316084858385-5ll9j4ol1khbjrcooni6ovb5fcvdv00f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYH7M0z6BgXgxN3xLZrnSI0a3dU3dSVn4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316084858385-5ll9j4ol1khbjrcooni6ovb5fcvdv00f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

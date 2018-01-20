@@ -1,0 +1,58 @@
+<resources>
+    <!--端末の言語設定が日本語以外の場合に反映-->
+    <string name="app_name">R-P-S</string>
+    <string name="title_activity_about">AboutActivity</string>
+
+    <string name="text_title">Rock-paper-scissors</string>
+    <string name="nomal_mode">Rock-paper-scissors</string>
+    <string name="ten_th_mode">R-P-S Ten matches</string>
+    <string name="ura_mode">Drak R-P-S</string>
+    <string name="data">Performance</string>
+    <string name="update">Update</string>
+
+    <string name="text1">Trophy</string>
+    <string name="text2">Score:</string>
+
+    <!--じゃんけんダイアログ-->
+    <string name="dialog_title1"></string>
+    <string name="dialog_mes1">Score +1</string>
+
+    <string name="dialog_title2"></string>
+
+    <string name="dialog_title3"></string>
+
+    <string name="result1">"Result</string>
+    <string name="result_mes1">You Loser...</string>
+
+    <string name="result2">Great!!!</string>
+    <string name="result_mes2">You Win 5 points or more with opponent!</string>
+
+    <string name="result_mes3">You WIN!</string>
+
+    <string name="dialog_mes4">Score +5</string>
+
+    <string name="result_button">Finish</string>
+
+    <string name="exit_mes_title">Caution</string>
+    <string name="exit_mes">Will end the current game.</string>
+
+    <string name="large_text">
+        "◆Update\n"
+        "Install app updates.\n\n"
+
+        "◆Back to the old version\n"
+        "You can revert to the old version. Back to installing the old version you need to uninstall the current version.\n"
+        "If you uninstall the current version, the performance data will be deleted!\n\n"
+
+        "App version: 4.3.3\n"
+        "release: 2018/1/20\n\n"
+
+        "Rock-paper-scissors\n"
+        "supported language: English, Japanese\n"
+        "Production by NAO\n"
+        "Copyright 2017 NAO\n"
+        "本アプリケーションでは、複数のオープンソース及びフリーイラストを使用しています。"
+
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>

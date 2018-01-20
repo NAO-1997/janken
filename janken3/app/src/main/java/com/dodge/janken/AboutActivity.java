@@ -31,7 +31,7 @@ public class AboutActivity extends AppCompatActivity {
     }
     // アップデート
     public void onButton1( View v){
-        String url = "https://1drv.ms/f/s!Avdi-ls1GYkwq3QXJoy-Z4Qjw3Jo";
+        String url = "";
         CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
         //ツールバーの色を変更
         builder.setToolbarColor(Color.YELLOW);
